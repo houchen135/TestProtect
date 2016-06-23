@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TestProtect
+
+  Created by xthink2 on 16/1/11.
+  Copyright © 2016年 xthink2. All rights reserved.
+*/
+"语言"="English";
+"0"="First";
+"1"="Second";
+"2"="Third";
+"3"="Fourth";
+"0Title"="First";
+"1Title"="Second";
+"2Title"="Third";
+"3Title"="Fourth";
